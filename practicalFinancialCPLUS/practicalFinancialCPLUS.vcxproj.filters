@@ -21,6 +21,12 @@
     <ClInclude Include="MonteCarloIntegration.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MACalculator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main_MA.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IntRateCalculator.cpp">
@@ -28,6 +34,15 @@
     </ClCompile>
     <ClCompile Include="MonteCarloIntegration.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MACalculator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_MA.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_ALL.cpp">
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

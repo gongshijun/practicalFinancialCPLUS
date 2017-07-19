@@ -140,10 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="IntRateCalculator.h" />
+    <ClInclude Include="MACalculator.h" />
+    <ClInclude Include="main_MA.h" />
     <ClInclude Include="MonteCarloIntegration.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IntRateCalculator.cpp" />
+    <ClCompile Include="MACalculator.cpp" />
+    <ClCompile Include="main_ALL.cpp" />
+    <ClCompile Include="main_MA.cpp" />
     <ClCompile Include="MonteCarloIntegration.cpp" />
   </ItemGroup>
   <ItemGroup>
